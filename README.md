@@ -2,6 +2,16 @@
 
 This repository contains homework assignments from a university course on Deep Learning for Computer Vision, completed in Winter Term 2024/25.
 
+## Technologies Used
+
+- **Python 3**
+- **PyTorch** - Deep learning framework
+- **torchvision** - Computer vision utilities and models
+- **NumPy** - Numerical computing
+- **Matplotlib** - Visualization
+- **Jupyter Notebooks** - Interactive development
+- **Kaggle** - GPU-accelerated notebook environment
+
 ## Course Content
 
 The assignments cover fundamental and advanced deep learning concepts for computer vision, implemented in Python using PyTorch. All exercises were completed on Kaggle notebooks with GPU acceleration.
@@ -62,13 +72,4 @@ The assignments cover fundamental and advanced deep learning concepts for comput
 
 **Key Concepts:** Generative models, latent variables, probabilistic modeling, unsupervised learning
 
-## Technologies Used
-
-- **Python 3**
-- **PyTorch** - Deep learning framework
-- **torchvision** - Computer vision utilities and models
-- **NumPy** - Numerical computing
-- **Matplotlib** - Visualization
-- **Jupyter Notebooks** - Interactive development
-- **Kaggle** - GPU-accelerated notebook environment
 
